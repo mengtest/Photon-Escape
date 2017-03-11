@@ -86,3 +86,4 @@ $RECYCLE.BIN/
 *.pdb
 /TEST_Data/
 /WEBGL/
+*.exe
