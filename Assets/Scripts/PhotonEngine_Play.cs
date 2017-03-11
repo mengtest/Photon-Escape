@@ -67,7 +67,7 @@ public class PhotonEngine_Play : MonoBehaviour {
 	void Start () {
 		FeedbackAnim = FeedbackAnimSource.GetComponent<Animation>();
         Time.timeScale = 1;
-        Application.targetFrameRate = 60; ///TOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO CHEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEECK
+        Application.targetFrameRate = 60;
         QualitySettings.vSyncCount = 1;
 		gameOver = gameOverPrefab;
         gameOver.SetActive(false);
