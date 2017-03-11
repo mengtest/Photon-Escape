@@ -80,10 +80,9 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
-<<<<<<< HEAD
 
 #CUSTOM
 *.keystore
 *.pdb
-/WEBGL/
 /TEST_Data/
+/WEBGL/
